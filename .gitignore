@@ -1,0 +1,17 @@
+### Intellij ###
+.idea
+*.iml
+out/
+
+### vim ###
+*.swp
+
+### macOS ###
+.DS_Store
+
+### Gradle ###
+.gradle
+build/
+
+### Dokka ###
+package-list
